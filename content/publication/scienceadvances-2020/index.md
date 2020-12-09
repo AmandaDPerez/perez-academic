@@ -3,7 +3,8 @@ title: "When policy and psychology meet: Mitigating the consequences of bias in 
 
 authors:
 - Jason A. Okonofua
-- Robert Ford
+- Amanda D. Perez
+- Sean Darling-Hammond
 
 
 date: "2015-09-01T00:00:00Z"
