@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://advances.sciencemag.org/content/6/42/eaba9479/tab-pdf
+url_pdf: http://advances.sciencemag.org/content/6/42/eaba9479/tab-pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
