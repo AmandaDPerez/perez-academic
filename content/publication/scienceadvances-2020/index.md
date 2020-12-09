@@ -2,7 +2,7 @@
 title: "When policy and psychology meet: Mitigating the consequences of bias in schools"
 
 authors:
-- admin
+- Jason A. Okonofua
 - Robert Ford
 author_notes:
 - "Equal contribution"
