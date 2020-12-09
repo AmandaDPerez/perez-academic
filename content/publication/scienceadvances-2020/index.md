@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: `science_advances_2020.pdf`
+url_pdf: science_advances_2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
