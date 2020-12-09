@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "When policy and psychology meet: Mitigating the consequences of bias in schools"
 authors:
 - admin
-- Robert Ford
+
 author_notes:
 
 date: "2015-09-01T00:00:00Z"
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://advances.sciencemag.org/content/6/42/eaba9479/tab-pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
