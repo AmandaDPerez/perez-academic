@@ -7,7 +7,7 @@ authors:
 - Sean Darling-Hammond
 
 
-date: "2015-09-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Science Advances, 6*(42)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Harsh exclusionary discipline predicts major negative life outcomes, including adult incarceration and unemployment. This breeds racial inequality because Black students are disproportionately at risk for this type of discipline. Can a combination of policy and psychological interventions reduce this kind of discipline and mitigate this inequality? Two preregistered experiments (Nexperiment1 = 246 teachers; Nexperiment2 = 243 teachers) used an established paradigm to systematically test integration of two and then three policy and psychological interventions to mitigate the consequences of bias (troublemaker labeling and pattern perception) on discipline (discipline severity). Results indicate that the integrated interventions can curb teachers’ troublemaker labeling and pattern prediction toward Black students who misbehave in a hypothetical paradigm. In turn, integration of the three components reduced racial inequality in teachers’ discipline decisions. This research informs scientific theory, public policy, and interventions.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
