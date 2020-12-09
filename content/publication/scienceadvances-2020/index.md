@@ -4,7 +4,6 @@ title: "When policy and psychology meet: Mitigating the consequences of bias in 
 authors:
 - Jason A. Okonofua
 - Robert Ford
-author_notes:
 
 
 date: "2015-09-01T00:00:00Z"
