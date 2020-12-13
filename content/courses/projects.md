@@ -6,8 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Courses"
-subtitle = "S<p style="color:red">This is a paragraph.</p>"
-
+subtitle = "test"
+<p style="color:red">This is a paragraph.</p>
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
