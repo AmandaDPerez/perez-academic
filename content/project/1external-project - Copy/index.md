@@ -4,7 +4,9 @@ summary: An example of linking directly to an external project website using `ex
 tags:
 - Demo
 date: "2018-04-27T00:00:00Z"
+
 weight = 65
+
 # Optional external URL for project (replaces project detail page).
 external_link: http://example.org
 
