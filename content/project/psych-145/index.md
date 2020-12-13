@@ -8,6 +8,11 @@ weight : 20
 # Optional external URL for project (replaces project detail page).
 external_link: https://dvcpsych145.netlify.app/
 
+tags:
+- DVC
+- Undergraduate
+- Research
+
 image:
   caption: 
   focal_point: Smart
