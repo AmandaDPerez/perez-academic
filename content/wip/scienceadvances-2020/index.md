@@ -27,7 +27,7 @@ abstract: in prep
 summary: work in progress.
 
 tags:
-- Education
+- Bias
 - Stereotypes
 featured: false
 
