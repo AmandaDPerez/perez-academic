@@ -7,7 +7,7 @@ weight = 65  # Order that this section will appear.
 
 title = "Courses"
 subtitle = "test"
-<p style="color:red">This is a paragraph.</p>
+
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -75,3 +75,4 @@ subtitle = "test"
  css_class = ""
 +++
 
+<p style="color:red">This is a paragraph.</p>
