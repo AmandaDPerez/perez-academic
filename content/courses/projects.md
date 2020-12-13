@@ -6,8 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Courses"
-subtitle = "Supporting websites for courses I've taught."
-
+subtitle = "S<p style="color:red">This is a paragraph.</p>"
+<p style="color:red">This is a paragraph.</p>
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -57,8 +57,8 @@ subtitle = "Supporting websites for courses I've taught."
 #color = "navy"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+   #gradient_start = "DeepSkyBlue"
+   #gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
