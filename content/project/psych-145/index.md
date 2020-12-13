@@ -11,7 +11,7 @@ external_link: https://dvcpsych145.netlify.app/
 tags:
 - DVC
 - Undergraduate
-- Research
+
 
 image:
   caption: 
