@@ -1,6 +1,6 @@
 ---
-title: Research Methods in Psychology
-summary: Course Website for Psych 215 at Diablo Valley College.
+title: Critical Thinking in Psychology
+summary: Course Website for Psych 145 at Diablo Valley College.
 tags:
 - DVC
 date: "2016-04-27T00:00:00Z"
