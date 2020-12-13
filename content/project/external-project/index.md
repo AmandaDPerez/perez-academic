@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Research Methods in Psychology
+summary: Course Website for Psych 215 at Diablo Valley College.
 tags:
 - DVC
 date: "2016-04-27T00:00:00Z"
