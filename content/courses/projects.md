@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Courses"
-subtitle = "test"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -75,4 +75,4 @@ subtitle = "test"
  css_class = ""
 +++
 
-<p style="color:red">This is a paragraph.</p>
+<p style="color:black">Below are some supporting websites for courses I have taught.</p>
