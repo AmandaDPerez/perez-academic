@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Current Unpublished Works in Progress."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = "Current Unpublished Works in Progress."
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,4 +75,4 @@ subtitle = "Current Unpublished Works in Progress."
  css_class = ""
 +++
 
-<p style="color:black"><center>Below are some supporting websites for courses I have taught.</center></p>
+<p style="color:black"><center>Current Unpublished Works in Progress.</center></p>
