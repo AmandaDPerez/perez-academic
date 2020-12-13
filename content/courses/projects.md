@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<p style="color:black">Below are some supporting websites for courses I have taught.</p>
+<p style="color:black"><center>Below are some supporting websites for courses I have taught.</center></p>
