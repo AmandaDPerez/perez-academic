@@ -104,18 +104,87 @@ date_format = "2006"
   title = "Intermediate R"
   url = ""
   certificate_url = ""
-  date_start = "2019-06-22"
+  date_start = "2019-06-23"
   date_end = ""
   description = ""
   
-  [[item]]
+[[item]]
   organization = "DataCamp Certificate"
   organization_url = "datacamp/r_importing_intro.pdf"
   title = "Introduction to Importing Data in R"
   url = ""
   certificate_url = ""
-  date_start = "2019-06-22"
+  date_start = "2019-06-23"
   date_end = ""
   description = ""
   
+ [[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_importing_intermediate.pdf"
+  title = "Intermediate Importing Data in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-23"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_cleaning.pdf"
+  title = "Cleaning Data in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-17"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_data_intro.pdf"
+  title = "Introduction to Data in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-24"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_dplyr.pdf"
+  title = "Data Manipulation with dplyr"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-12"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_dplyr_joining.pdf"
+  title = "Joining Data with dplyr"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-12"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_tidyverse.pdf"
+  title = "Introduction to the Tidyverse"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-22"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_intro_ggplot.pdf"
+  title = "Introduction to Data Visualization with ggplot2"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-13"
+  date_end = ""
+  description = ""
 +++
