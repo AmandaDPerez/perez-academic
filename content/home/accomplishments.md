@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -34,7 +34,7 @@ date_format = "2006"
   title = "Introduction to Relational Databases in SQL"
   url = ""
   certificate_url = ""
-  date_start = "2019"
+  date_start = "2019-07-24"
   date_end = ""
   description = ""
 
@@ -44,7 +44,7 @@ date_format = "2006"
   title = "Introduction to SQL"
   url = ""
   certificate_url = ""
-  date_start = "2019"
+  date_start = "2019-07-25"
   date_end = ""
   description = ""
 
