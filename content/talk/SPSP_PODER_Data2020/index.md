@@ -5,7 +5,7 @@ authors:
 - Amanda D. Perez
 
 
-date: "2017-01-01 8AM PST"
+date: "2017-01-01T12:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
