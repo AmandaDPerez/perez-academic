@@ -77,5 +77,45 @@ date_format = "2006"
   date_start = "2020-11-12"
   date_end = ""
   description = ""
+  
+  [[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/shinydashboard.pdf"
+  title = "Building Dashboards with shinydashboard"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-12"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_intro.pdf"
+  title = "Introduction to R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-22"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_intermediate.pdf"
+  title = "Intermediate R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-22"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_importing_intro.pdf"
+  title = "Introduction to Importing Data in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-22"
+  date_end = ""
+  description = ""
+  
 +++
