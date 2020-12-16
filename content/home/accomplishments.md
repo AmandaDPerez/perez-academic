@@ -48,7 +48,15 @@ date_format = "2006"
   date_end = ""
   description = ""
 
-
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/shiny_building_webapps.pdf"
+  title = "Building Web Applications with Shiny in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-12"
+  date_end = ""
+  description = ""
 
 
 +++
