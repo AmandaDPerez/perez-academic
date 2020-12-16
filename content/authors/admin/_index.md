@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai 
-  link: AmandaDPerez/Perez-CV/master/CV.pdf
+  link: https://1drv.ms/b/s!AgEDss23uOOshutJ949AvZBztQItOQ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
