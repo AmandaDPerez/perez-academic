@@ -9,7 +9,7 @@ date: ""
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01"
+#publishDate: "2017-01-01 8AM PST"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ date: ""
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances, 6*(42)"
+#publication: "*Science Advances, 6*(42)"
 #publication_short: ""
 
 abstract: I will be leading a statistics in R Data workshop for SPSP 2020's Conference. More details and materials to come soon.
