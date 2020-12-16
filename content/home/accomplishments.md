@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "DataCamp Certificate"
-  organization_url = datacamp/sql_intro.pdf
+  organization_url = "datacamp/sql_intro.pdf"
   title = "Introduction to SQL"
   url = ""
   certificate_url = ""
