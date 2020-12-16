@@ -187,4 +187,14 @@ date_format = "2006"
   date_start = "2020-05-13"
   date_end = ""
   description = ""
+  
+ [[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/r_longitudinal.pdf"
+  title = "Longitudinal Analysis in R"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-21"
+  date_end = ""
+  description = ""
 +++
