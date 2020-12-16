@@ -28,6 +28,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/sql_relational.pdf"
+  title = "Introduction to Relational Databases in SQL"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-25"
+  date_end = ""
+  description = ""
+
+
 
 
 +++
