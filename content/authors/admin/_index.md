@@ -14,9 +14,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Iam a Doctoral Candidate in Social-Personality Psychology at UC Berkeley. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley. My research interests include include (1) Causes, consequences, and remedies to implicit and explicit racial biases, (2) Implicit racial Biases and Measurement, (3) Racial Disparities in Education and Health. 
+bio: Amanda D. Perez is a doctoral candidate at UC Berkeley's social-personality Ph.D. program. She is also an adjunct professor of psychology at DVC and a psychology lecturer at UC Berkeley.
 
-Through all of my experiences and training I have comfort teaching a wide breadth of psychological topics and courses such as: introduction to psychology, research methods, statistics, intervention psychology, social psychology, stigma and prejudice, Latinx psychology, cultural psychology, personality psychology, and positive psychology. Further, I have extensive experience being on the instructional team for a Massive Open Online Course (MOOC) on ed.org and feel comfortable creating and teaching a course on an online platform.
 
 interests:
 - Implicit Biases
@@ -71,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Doctoral Candidate in Social-Personality Psychology at UC Berkeley. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley. My research interests include include (1) Causes, consequences, and remedies to implicit and explicit racial biases, (2) Implicit racial Biases and Measurement, (3) Racial Disparities in Education and Health. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Through all of my experiences and training I have comfort teaching a wide breadth of psychological topics and courses such as: introduction to psychology, research methods, statistics, intervention psychology, social psychology, stigma and prejudice, Latinx psychology, cultural psychology, personality psychology, and positive psychology. Further, I have extensive experience being on the instructional team for a Massive Open Online Course (MOOC) on ed.org and feel comfortable creating and teaching a course on an online platform.
