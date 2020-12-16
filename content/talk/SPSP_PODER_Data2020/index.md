@@ -9,7 +9,7 @@ date: ""
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01 8AM PST"
+publishDate: "2017-01-01 8AM PST"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
