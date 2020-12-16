@@ -68,5 +68,14 @@ date_format = "2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "DataCamp Certificate"
+  organization_url = "datacamp/shiny_flexdashboard.pdf"
+  title = "Building Dashboards with flexdashboard"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-12"
+  date_end = ""
+  description = ""
 
 +++
