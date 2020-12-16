@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amanda Danielle Perez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate and Professor of Psychology 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkeley & DVC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Iam a Doctoral Candidate in Social-Personality Psychology at UC Berkeley. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley. My research interests include include (1) Causes, consequences, and remedies to implicit and explicit racial biases, (2) Implicit racial Biases and Measurement, (3) Racial Disparities in Education and Health. 
+
+Through all of my experiences and training I have comfort teaching a wide breadth of psychological topics and courses such as: introduction to psychology, research methods, statistics, intervention psychology, social psychology, stigma and prejudice, Latinx psychology, cultural psychology, personality psychology, and positive psychology. Further, I have extensive experience being on the instructional team for a Massive Open Online Course (MOOC) on ed.org and feel comfortable creating and teaching a course on an online platform.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Implicit Biases
+- Educational Racial Inequities
+- Racial Inequeties in Health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Social Psychology, 2021
+    institution: UC Berkeley
+    year: 2021
+  - course: MA in Psychology, 2019
+    institution: UC Berkeley
+    year: 2019
+  - course: BA in Psychology, 2015
+    institution: UC Berkeley
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
