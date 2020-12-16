@@ -40,7 +40,7 @@ date_format = "2006"
 
 [[item]]
   organization = "DataCamp Certificate"
-  organization_url = "datacamp/sql_intro.pdf"
+  organization_url = "datacamp/track_shiny_fundamentals.pdf"
   title = "Shiny Fundamentals with R Track"
   url = ""
   certificate_url = ""
