@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Introduction to SQL"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2019"
   date_end = ""
   description = ""
 
