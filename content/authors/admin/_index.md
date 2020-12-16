@@ -69,6 +69,10 @@ user_groups:
 - Visitors
 ---
 
-I am a Doctoral Candidate in Social-Personality Psychology at UC Berkeley. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley. My research interests include include (1) Causes, consequences, and remedies to implicit and explicit racial biases, (2) Implicit racial Biases and Measurement, (3) Racial Disparities in Education and Health. 
+I am a Doctoral Candidate in Social-Personality Psychology at UC Berkeley. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley. My research interests include include:
+
+(1) Causes, consequences, and remedies to implicit and explicit racial biases  
+(2) Implicit racial Biases and Measurement  
+(3) Racial Disparities in Education and Health  
 
 Through all of my experiences and training I have comfort teaching a wide breadth of psychological topics and courses such as: introduction to psychology, research methods, statistics, intervention psychology, social psychology, stigma and prejudice, Latinx psychology, cultural psychology, personality psychology, and positive psychology. Further, I have extensive experience being on the instructional team for a Massive Open Online Course (MOOC) on ed.org and feel comfortable creating and teaching a course on an online platform.
