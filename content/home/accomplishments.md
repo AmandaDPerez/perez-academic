@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   organization = "DataCamp Certificate"
   organization_url = "/datacamp/sql_intro.pdf"
   title = "Introduction to SQL"
-  url = ""
+  #url = ""
   #certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
+  #date_start = ""
+  #date_end = ""
+  #description = ""
 
 
 
