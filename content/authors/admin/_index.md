@@ -16,7 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Amanda D. Perez is a doctoral candidate at UC Berkeley's social-personality Ph.D. program. She is also an adjunct professor of psychology at DVC and a psychology lecturer at UC Berkeley.
 
-
 interests:
 - Implicit Biases
 - Educational Racial Inequities
@@ -54,7 +53,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
-icon_pack: ai
+  icon_pack: ai 
    link: https://cdn.rawgit.com/AmandaDPerez/Perez-CV/master/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
