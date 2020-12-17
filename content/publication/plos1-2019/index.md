@@ -1,13 +1,13 @@
 ---
-title: "When policy and psychology meet: Mitigating the consequences of bias in schools"
+title: "On the prevalence of racial discrimination in the United States"
 
 authors:
-- Jason A. Okonofua
 - Amanda D. Perez
-- Sean Darling-Hammond
+- Randy T. Lee
+- Rodolfo Mendoza-Denton
 
 
-date: "2020-09-01T00:00:00Z"
+date: "2029-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances, 6*(42)"
+publication: "*PLoS ONE, 14*(1)"
 publication_short: ""
 
-abstract: Harsh exclusionary discipline predicts major negative life outcomes, including adult incarceration and unemployment. This breeds racial inequality because Black students are disproportionately at risk for this type of discipline. Can a combination of policy and psychological interventions reduce this kind of discipline and mitigate this inequality? Two preregistered experiments (Nexperiment1 = 246 teachers; Nexperiment2 = 243 teachers) used an established paradigm to systematically test integration of two and then three policy and psychological interventions to mitigate the consequences of bias (troublemaker labeling and pattern perception) on discipline (discipline severity). Results indicate that the integrated interventions can curb teachers’ troublemaker labeling and pattern prediction toward Black students who misbehave in a hypothetical paradigm. In turn, integration of the three components reduced racial inequality in teachers’ discipline decisions. This research informs scientific theory, public policy, and interventions.
+abstract: Boutwell, Nedelec, Winegard, Shackelford, Beaver, Vaughn, Barnes, & Wright (2017) published an article in this journal that interprets data from the Add Health dataset as showing that only one-quarter of individuals in the United States experience discrimination. In Study 1, we attempted to replicate Boutwell et al.’s findings using a more direct measure of discrimination. Using data from the Pew Research Center, we examined a large sample of American respondents (N = 3,716) and explored the prevalence of discrimination experiences among various racial groups. Our findings stand in contrast to Boutwell et al.’s estimates, revealing that between 50% and 75% of Black, Hispanic, and Asian respondents (depending on the group and analytic approach) reported discriminatory treatment. In Study 2, we explored whether question framing affected how participants responded to Boutwell's question about experiencing less respect and courtesy. Regardless of question framing, non-White participants reported more experiences than White participants. Further, there was an interaction of participant race and question framing such that when participants were asked about experiences of less respect or courtesy broadly, there were no differences between non-White participants and White participants, but when they were asked about experiences that were specifically race-based, non-White participants reported more experiences than White participants. The current research provides a counterweight to the claim that discrimination is not a prevalent feature of the lives of minority groups and the serious implications this claim poses for research and public policy
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: publication/scienceadvances-2020/science_advances_2020.pdf
+url_pdf: publication/plos1-2019/plos_2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,4 +67,4 @@ projects: []
 slides: example
 ---
 
-Contact okonofua@berkeley.edu for comments regarding this article.
+Contact adpc@berkeley.edu for comments regarding this article.
