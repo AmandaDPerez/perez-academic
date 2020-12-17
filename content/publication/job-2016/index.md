@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Journal of Othering and Belonging, Expanding the Circle of Concern, 1*"
 publication_short: ""
 
-abstract: In the years since the 2010 publication of Are We Born Racist? New Insights from Neuroscience and Positive Psychology, coedited by Mendoza-Denton, the notion of implicit bias-the automatic yet measurable associations that people have about others, and the behaviors that these associations unconsciously influence-has slowly gained traction to inform our understanding of modern racism. 
+abstract: In the years since the 2010 publication of Are We Born Racist? New Insights from Neuroscience and Positive Psychology, coedited by Mendoza-Denton, the notion of implicit bias-the automatic yet measurable associations that people have about others, and the behaviors that these associations unconsciously influence-has slowly gained traction to inform our understanding of modern racism. The fact that implicit bias occurs outside of our awareness but affects explicit behaviors, from pulling the trigger of a weapon to judging a resume to disciplining young children, can be highly threatening to people's self-concept.
 
 # Summary. An optional shortened abstract.
 summary: ""
