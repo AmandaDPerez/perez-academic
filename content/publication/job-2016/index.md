@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: publication/scienceadvances-2020/science_advances_2020.pdf
+url_pdf: publication/job-2016/othering.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,4 +67,4 @@ projects: []
 slides: example
 ---
 
-Contact okonofua@berkeley.edu for comments regarding this article.
+Contact rmd@berkeley.edu for comments regarding this article.
