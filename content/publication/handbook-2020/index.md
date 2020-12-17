@@ -1,10 +1,10 @@
 ---
-title: "When policy and psychology meet: Mitigating the consequences of bias in schools"
+title: "Belonging in Schools: A Social Psychological Perspective"
 
 authors:
-- Jason A. Okonofua
 - Amanda D. Perez
-- Sean Darling-Hammond
+- Randy T. Lee
+- Rodolfo Mendoza-Denton
 
 
 date: "2020-09-01T00:00:00Z"
@@ -17,26 +17,27 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances, 6*(42)"
+publication: "*The Cambridge Handbook of Applied School Psychology*"
 publication_short: ""
 
-abstract: Harsh exclusionary discipline predicts major negative life outcomes, including adult incarceration and unemployment. This breeds racial inequality because Black students are disproportionately at risk for this type of discipline. Can a combination of policy and psychological interventions reduce this kind of discipline and mitigate this inequality? Two preregistered experiments (Nexperiment1 = 246 teachers; Nexperiment2 = 243 teachers) used an established paradigm to systematically test integration of two and then three policy and psychological interventions to mitigate the consequences of bias (troublemaker labeling and pattern perception) on discipline (discipline severity). Results indicate that the integrated interventions can curb teachers’ troublemaker labeling and pattern prediction toward Black students who misbehave in a hypothetical paradigm. In turn, integration of the three components reduced racial inequality in teachers’ discipline decisions. This research informs scientific theory, public policy, and interventions.
+abstract: In this chapter, we provide an overview of the theoretical basis of, barriers to, and interventions aimed at improving belonging in schools. Our discussion focuses on interpersonal relations and individual perceptions as fundamental to the sense of belonging. We review research on belonging as a fundamental human motive as well as newer work exploring variability in the experience of belonging. We also address barriers to belonging, illustrating the relational role of peers and teachers. We conclude by highlighting three interventions shown to foster belonging in an educational context, focusing on challenging psychological perceptions of threat (Walton & Cohen, 2011), changing the climate (Walton et al., 2015), and promoting cross-group friendships (Page-Gould, Mendoza-Denton, & Tropp, 2008). Throughout the chapter, we highlight the importance of the roles of the institution, community, and individuals involved.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this chapter, we provide an overview of the theoretical basis of, barriers to, and interventions aimed at improving belonging in schools. Our discussion focuses on interpersonal relations and individual perceptions as fundamental to the sense of belonging. We review research on belonging as a fundamental human motive as well as newer work exploring variability in the experience of belonging. We also address barriers to belonging, illustrating the relational role of peers and teachers. We conclude by highlighting three interventions shown to foster belonging in an educational context, focusing on challenging psychological perceptions of threat (Walton & Cohen, 2011), changing the climate (Walton et al., 2015), and promoting cross-group friendships (Page-Gould, Mendoza-Denton, & Tropp, 2008). Throughout the chapter, we highlight the importance of the roles of the institution, community, and individuals involved.
 
 tags:
 - Education
-- Stereotypes
+- Interventions
+- Belonging
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: publication/scienceadvances-2020/science_advances_2020.pdf
+url_pdf: publication/handbook-2020/belonging.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,4 +68,4 @@ projects: []
 slides: example
 ---
 
-Contact okonofua@berkeley.edu for comments regarding this article.
+Contact adpc@berkeley.edu for comments regarding this article.
