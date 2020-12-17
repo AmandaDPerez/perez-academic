@@ -27,7 +27,8 @@ abstract: In the years since the 2010 publication of Are We Born Racist? New Ins
 summary: ""
 
 tags:
-- Education
+- Implicit Bias
+- Racism
 - Stereotypes
 featured: false
 
