@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Unpublished Works in Progress"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,11 +50,13 @@ subtitle = "Unpublished Works in Progress"
  css_class = ""
 +++
 
-## Islamophobia
-Project examining the intersection of religion and ethnicity in Islamophobia.
+## Unpublished Works in Progress
 
-## Reputation
-A study examining the impact of race and reputation on discipline outcomes for Black students. This is currently under review.
+**Perez, A.D.** & Okonofua, J. A. (Under Review). The Good and Bad of aReputation: Race and the Disciplining of Youth.
+
+**Perez, A.D.**, & Mendoza‑Denton, R. (in prep).The Efficacy of Using IndividualQUAD Model Parameters in a Linear Model.
+
+**Perez, A.D.**, Pashtunyar, S. & Mendoza‑Denton, R. (in prep). Coloring Islam:Examining the Intersectionality of Ethnicity and Religion on the Construction ofIslamoracism and the brown ’other.’Perez, A.D., Lee, R.T., & Mendoza‑Denton, R. (in prep). Predictive utility ofProject Implicit within a nationally representative sample.ļPublications
 
 
 
