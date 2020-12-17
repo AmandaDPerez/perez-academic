@@ -54,7 +54,7 @@ subtitle = ""
 
 **Perez, A.D.** & Okonofua, J. A. (Under Review). The Good and Bad of aReputation: Race and the Disciplining of Youth.
 
-**Perez, A.D.**, & Mendoza‑Denton, R. (in prep).The Efficacy of Using IndividualQUAD Model Parameters in a Linear Model.
+**Perez, A.D.**, & Mendoza‑Denton, R. (in prep).The Efficacy of Using Individual QUAD Model Parameters in a Linear Model.
 
 **Perez, A.D.**, Pashtunyar, S. & Mendoza‑Denton, R. (in prep). Coloring Islam:Examining the Intersectionality of Ethnicity and Religion on the Construction ofIslamoracism and the brown ’other.’Perez, A.D., Lee, R.T., & Mendoza‑Denton, R. (in prep). Predictive utility ofProject Implicit within a nationally representative sample.ļPublications
 
