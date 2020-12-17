@@ -58,7 +58,8 @@ subtitle = ""
 
 **Perez, A.D.**, Pashtunyar, S. & Mendoza‑Denton, R. (in prep). Coloring Islam:Examining the Intersectionality of Ethnicity and Religion on the Construction ofIslamoracism and the brown ’other.’
 
-**Perez, A.D.**, Lee, R.T., & Mendoza‑Denton, R. (in prep). Predictive utility of Project Implicit within a nationally representative sample.ļPublications
+**Perez, A.D.**, Lee, R.T., & Mendoza‑Denton, R. (in prep). Predictive utility of Project Implicit within a nationally representative sample.
+
 
 
 
