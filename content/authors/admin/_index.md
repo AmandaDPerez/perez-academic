@@ -6,7 +6,7 @@ title: Amanda Danielle Perez
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate and Professor of Psychology 
+role: Ph.D. Candidate and Instructor of Psychology 
 
 # Organizations/Affiliations
 organizations:
