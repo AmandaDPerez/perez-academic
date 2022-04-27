@@ -42,7 +42,7 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a Post-Doctoral Researcher UC Berkeley's School of Public Health in Social Epidemiology. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley & UC Berkeley Extension. My research interests include include:
+I am a Post-Doctoral Researcher UC Berkeley's School of Public Health in Social Epidemiology. My PhD is in social psychology. I am also an adjunct professor of Psychology at DVC and lecturer at UC Berkeley & UC Berkeley Extension. My research interests include include:
 
 (1) Racial Disparities in Health & Education\
 (2) Implicit racial Biases and Measurement\
