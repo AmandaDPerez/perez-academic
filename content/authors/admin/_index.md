@@ -20,7 +20,7 @@ social:
     link: https://github.com/AmandaDPerez
   - icon: cv
     icon_pack: ai
-    link: https://1drv.ms/b/s!AgEDss23uOOshutJ949AvZBztQItOQ
+    link: https://1drv.ms/b/s!AgEDss23uOOsv2kCCffbiKHlK3aj
 organizations:
   - name: UC Berkeley & DVC
     url: ""
