@@ -1,13 +1,12 @@
 ---
-title: "When policy and psychology meet: Mitigating the consequences of bias in schools"
+title: "The good and bad of a reputation: Race and punishment in K-12 schools"
 
 authors:
-- Jason A. Okonofua
 - Amanda D. Perez
-- Sean Darling-Hammond
+- Jason A. Okonofua
 
 
-date: "2020-09-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances, 6*(42)"
+publication: "*Journal of Experimental Social Psychology, 100*"
 publication_short: ""
 
-abstract: Harsh exclusionary discipline predicts major negative life outcomes, including adult incarceration and unemployment. This breeds racial inequality because Black students are disproportionately at risk for this type of discipline. Can a combination of policy and psychological interventions reduce this kind of discipline and mitigate this inequality? Two preregistered experiments (Nexperiment1 = 246 teachers; Nexperiment2 = 243 teachers) used an established paradigm to systematically test integration of two and then three policy and psychological interventions to mitigate the consequences of bias (troublemaker labeling and pattern perception) on discipline (discipline severity). Results indicate that the integrated interventions can curb teachers’ troublemaker labeling and pattern prediction toward Black students who misbehave in a hypothetical paradigm. In turn, integration of the three components reduced racial inequality in teachers’ discipline decisions. This research informs scientific theory, public policy, and interventions.
+abstract: Large racial disparities plague discipline in schools across the United States which contributes to racial disparities in life outcomes such as education attainment and incarceration. The present research investigates the role a student's reputation – as shared from one teacher to another one – plays in the discipline context. Teachers (N = 192) read about two incidents of misbehavior and reported the severity of discipline the student should receive and the likelihood that they would label the student as a “troublemaker.” They were randomly assigned to read about a Black or White student and to hear from a fellow teacher that the student had a good or bad reputation. Analyses revealed a three-way interaction such that a good reputation buffers against an escalation in discipline severity for a White, but not Black, student. A White student with a bad, as compared to good reputation, received a meaningful escalation in discipline, was more likely to be labeled a troublemaker, and was deemed more likely to get suspended in the future. Meanwhile, reputation was somewhat inconsequential for a Black student. The current research advances theory on the implication of racial bias in context and informs policy for how information is shared among teachers.
 
 # Summary. An optional shortened abstract.
-summary: Two preregistered experiments used an established paradigm to systematically test integration of two and then three policy and psychological interventions to mitigate the consequences of bias on discipline. Results indicate that the integrated interventions can curb teachers’ troublemaker labeling and pattern prediction toward Black students who misbehave in a hypothetical paradigm. 
+summary: Analyses revealed a three-way interaction such that a good reputation buffers against an escalation in discipline severity for a White, but not Black, student. A White student with a bad, as compared to good reputation, received a meaningful escalation in discipline, was more likely to be labeled a troublemaker, and was deemed more likely to get suspended in the future. Meanwhile, reputation was somewhat inconsequential for a Black student. The current research advances theory on the implication of racial bias in context and informs policy for how information is shared among teachers.
 
 tags:
 - Education
@@ -36,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: publication/scienceadvances-2020/science_advances_2020.pdf
+url_pdf: publication/jesp-2022/perez_jesp_2022.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,4 +66,4 @@ projects: []
 slides: example
 ---
 
-Contact okonofua@berkeley.edu for comments regarding this article.
+Contact adp@berkeley.edu for comments regarding this article.
