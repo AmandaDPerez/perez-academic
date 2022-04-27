@@ -26,13 +26,13 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Social Psychology, 2021
+    - course: PhD in Social Psychology
       institution: UC Berkeley
       year: 2021
-    - course: MA in Psychology, 2019
+    - course: MA in Psychology
       institution: UC Berkeley
       year: 2019
-    - course: BA in Psychology, 2015
+    - course: BA in Psychology
       institution: UC Berkeley
       year: 2015
 email: ""
