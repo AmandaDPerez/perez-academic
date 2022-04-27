@@ -87,8 +87,8 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "adpc@berkeley.edu"
-phone = "562-505-0115"
+email = "adp@berkeley.edu"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -99,14 +99,14 @@ address = {street = "2121 Berkeley Way", city = "Berkeley", region = "CA", postc
 coordinates = {latitude = "37.8733816", longitude = "-122.2696806"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building and head to Floor 3"
+directions = "Enter Building and head to Floor 5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 11:00 to 1:00pm"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://www.wejoinin.com/sheets/javus"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
