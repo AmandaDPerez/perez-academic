@@ -5,9 +5,9 @@ bio: Amanda D. Perez is a post-doctoral researcher at UC Berkeley's School of
   Public Health. She is also an adjunct professor of psychology at DVC and a
   psychology lecturer at UC Berkeley and UC Berkeley Extension.
 interests:
-  - Implicit Biases
+  - Racial Inequities in Health
   - Educational Racial Inequities
-  - Racial Inequeties in Health
+  - Implicit Biases
 social:
   - icon: envelope
     icon_pack: fas
